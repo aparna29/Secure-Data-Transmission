@@ -1,2 +1,4 @@
 # Secure-Data-Transmission
-AES encryption and transfer of files and images using socket programming in Java.
+The objective of this project is to provide the secure communication among the connected system in the network. It provides the necessary authentication for the file transferring especially images in the network transmission. It consists of three modules namely encryption and decryption module, password authentication module, transferring of the data through network.
+
+By the implementation of the Server­ Client technology we are able to use File Transfer Protocol mechanism and through socket programming the end user is able to send and receive the encrypted and decrypted file in the network respectively. It involves encryption of data at sender’s end and decryption at receivers end. The encryption and decryption is performed using the same key i.e. symmetric key cryptography using AES. The file transfer is performed using socket programming.
